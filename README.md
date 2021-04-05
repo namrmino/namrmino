@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Namrmino's github stats](https://github-readme-stats.vercel.app/api?username=namrmino&show_icons=true)
+![Namrmino's github stats](https://github-readme-stats.vercel.app/api?username=namrmino&show_icons=true&theme=dark)
 <!--
 **namrmino/namrmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
