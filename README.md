@@ -1,4 +1,11 @@
 ### NamJeongJae 👋
+
+<div align=center>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+</div>
+
 ![Namrmino's github stats](https://github-readme-stats.vercel.app/api?username=namrmino&show_icons=true) ![Namrmino's Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&langs_count=8)
 
 
