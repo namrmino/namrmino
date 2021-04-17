@@ -10,8 +10,8 @@
 
 Feel free to contact me directly at 📫 njj97@korea.ac.kr
 
-- NW Big-Data Team Intern @ LG Uplus
-- A University Student Management Team @ LikeLion
+- NW Big-Data Team Intern @ [LG Uplus](http://www.uplus.co.kr/cmg/kore/info/pklu/RetrievePkLuIntroduce.hpi?mid=10349)
+- A University Student Management Team @ [LikeLion](https://www.likelion.net/)
 - Builder @ [PresudoLab](https://pseudo-lab.com/)
 
 ![Namrmino's github stats](https://github-readme-stats.vercel.app/api?username=namrmino&show_icons=true) 
