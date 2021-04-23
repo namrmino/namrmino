@@ -1,6 +1,7 @@
 ## Hello world! I'm Nam Jeong Jae <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align=right>
+  
 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-41C8FF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/jeongjaenam)](https://www.kaggle.com/jeongjaenam)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongjaenam/)](https://www.linkedin.com/in/jeongjaenam/) 
