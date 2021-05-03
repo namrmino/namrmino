@@ -14,7 +14,7 @@ Feel free to contact me directly at 📫 njj97@korea.ac.kr
 - NW Big-Data Team Intern(Field Trainee) @ [LG Uplus](http://www.uplus.co.kr/cmg/kore/info/pklu/RetrievePkLuIntroduce.hpi?mid=10349)
 - A University Student Management Team @ [LikeLion](https://www.likelion.net/)
 - Operator @ [UnderDog-Revolution](https://www.notion.so/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9)
-- Builder @ [PresudoLab](https://Pseudo-lab.com/)
+- Builder @ [Pseudo-Lab](https://Pseudo-lab.com/)
 
 
 ![Namrmino's github stats](https://github-readme-stats.vercel.app/api?username=namrmino&show_icons=true) 
