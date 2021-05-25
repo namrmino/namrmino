@@ -15,7 +15,5 @@ Feel free to contact me directly at 📫 njj97@korea.ac.kr
 - A University Student Management Team @ [LikeLion](https://www.likelion.net/)
 - Operator @ [UnderDog-Revolution](https://www.notion.so/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9)
 - Builder @ [Pseudo-Lab](https://Pseudo-lab.com/)
-
-
 ![Namrmino's github stats](https://github-readme-stats.vercel.app/api?username=namrmino&show_icons=true) 
 ![Namrmino's Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&langs_count=8)
