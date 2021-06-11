@@ -9,7 +9,7 @@
 
 </div>
 
-Feel free to contact me directly at 📫 njj97@korea.ac.kr
+Feel free to contact me directly at 📫 njj97@naver.com
 
 - NW Big-Data Team Intern(Field Trainee) @ [LG Uplus](http://www.uplus.co.kr/cmg/kore/info/pklu/RetrievePkLuIntroduce.hpi?mid=10349)
 - A University Student Management Team @ [LikeLion](https://www.likelion.net/)
