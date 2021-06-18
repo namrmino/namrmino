@@ -2,9 +2,8 @@
 
 <div align=right>
   
-
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-41C8FF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/jeongjaenam)](https://www.kaggle.com/jeongjaenam)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongjaenam/)](https://www.linkedin.com/in/jeongjaenam/) 
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-41C8FF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/jeongjaenam)](https://www.kaggle.com/jeongjaenam)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamrmino&count_bg=%23628217&title_bg=%23000000&icon=python.svg&icon_color=%23FEAA4B&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
