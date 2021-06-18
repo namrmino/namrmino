@@ -17,4 +17,4 @@ Feel free to contact me directly at 📫 njj97@naver.com
 - Builder @ [Pseudo-Lab](https://Pseudo-lab.com/)
 
 ![Namrmino's github stats](https://github-readme-stats.vercel.app/api?username=namrmino&show_icons=true) 
-![Namrmino's Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=jupyter%20notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
