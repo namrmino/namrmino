@@ -11,6 +11,7 @@
 Feel free to contact me directly at 📫 njj97@naver.com
 
 - NW Big-Data Team Intern(Field Trainee) @ [LG Uplus](http://www.uplus.co.kr/cmg/kore/info/pklu/RetrievePkLuIntroduce.hpi?mid=10349)
+- 5th Member @ [AUSG](https://ausg.me/)
 - A University Student Management Team @ [LikeLion](https://www.likelion.net/)
 - Operator @ [UnderDog-Revolution](https://www.notion.so/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9)
 - Builder @ [Pseudo-Lab](https://Pseudo-lab.com/)
