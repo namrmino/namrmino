@@ -65,8 +65,6 @@
 <code><img height="30" src=""></code> -->
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook&theme=prussian">
-<br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true&theme=prussian">
 
 <br>
 
@@ -83,3 +81,5 @@
 <br>
 
 😎 Feel free to contact me directly at 📫 njj97@naver.com
+<br>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true&theme=prussian">
