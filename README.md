@@ -19,8 +19,6 @@
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true">
 
-<h2> Skills 🍔🍔🍔 </h2>
-
 <img src="https://img.shields.io/badge/Python-4D9168?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 🔗 LG-Uplus NW Big-Data Team _ Intern(Field Trainee)
