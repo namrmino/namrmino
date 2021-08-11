@@ -19,7 +19,7 @@
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true">
 
-💻 Language 💻
+<h3> Tech 💻💻💻 </h3>
 
 <img src="https://img.shields.io/badge/Python-4D9168?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
