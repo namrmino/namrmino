@@ -23,7 +23,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="30" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png"></code>
 
-<!-- <code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/992095425F570EA536"></code>
+<code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/992095425F570EA536"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBwo70v-oZ0qGHyoUni1RLYCWg4REUz7znw&usqp=CAU"></code>
@@ -34,7 +34,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://juststickers.in/wp-content/uploads/2014/07/Hadoop.jpg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png"></code>
 <code><img height="30" src="https://blog.kakaocdn.net/dn/ACGJe/btqEVYwVrEs/2mmcvLXVNLjKelbdqeesJ1/img.png"></code>
