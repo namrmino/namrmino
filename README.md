@@ -19,15 +19,17 @@
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true">
 
+💻 Language 💻
+
 <img src="https://img.shields.io/badge/Python-4D9168?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-- NW Big-Data Team Intern (Field Trainee) @[LG Uplus](http://www.uplus.co.kr/cmg/kore/info/pklu/RetrievePkLuIntroduce.hpi?mid=10349)
+🔗 [LG Uplus _ NW Big-Data Team Intern (Field Trainee)](http://www.uplus.co.kr/cmg/kore/info/pklu/RetrievePkLuIntroduce.hpi?mid=10349)
 
-- Member @[AUSG - AWSKRUG University Student Group](https://ausg.me/)
+🔗 [AUSG - AWSKRUG University Student Group _ Member](https://ausg.me/)
 
-- A University Student Management Team @[LikeLion](https://www.likelion.net/)
+🔗 [LikeLion Univ. Student _ Manager](https://www.likelion.net/)
 
-- Operator @[UnderDog-Revolution](https://www.notion.so/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9)
+🔗 [UnderDog-Revolution _ Operator](https://www.notion.so/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9)
 
 <br>
 
