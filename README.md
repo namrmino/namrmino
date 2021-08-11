@@ -25,7 +25,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="30" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png"></code>
 
-<code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/992095425F570EA536"></code>
+<!-- <code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/992095425F570EA536"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBwo70v-oZ0qGHyoUni1RLYCWg4REUz7znw&usqp=CAU"></code>
@@ -62,7 +62,7 @@
 
 <code><img height="30" src="https://static.techspot.com/images2/downloads/topdownload/2021/03/2021-03-18-ts3_thumbs-e50.png"></code>
 <code><img height="30" src="https://media-exp1.licdn.com/dms/image/C510BAQHv4TuUSVmblQ/company-logo_200_200/0/1573513777801?e=2159024400&v=beta&t=jab4Hx41IV1SHkNOGI5dunpBHr54IfMf8MJ9cEbXh5o"></code>
-<!-- <code><img height="30" src=""></code>
+<code><img height="30" src=""></code>
 <code><img height="30" src=""></code>
 <code><img height="30" src=""></code> -->
 
