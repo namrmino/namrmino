@@ -20,7 +20,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true">
 
 
-<img src="https://img.shields.io/badge/Python-AD5C51?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-4D9168?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 <br> 
 
