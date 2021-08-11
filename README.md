@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SAS-4D9168?style=flat-square&logo=![image](https://user-images.githubusercontent.com/69797157/128985617-a5503c2e-a7aa-417a-a1e5-49bfaea049a8.png)&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SAS-3766AB?style=flat-square&logo=![image](https://user-images.githubusercontent.com/69797157/128985617-a5503c2e-a7aa-417a-a1e5-49bfaea049a8.png)&logoColor=white"/></a>
 
 🔗 LG-Uplus NW Big-Data Team _ Intern(Field Trainee)
 
