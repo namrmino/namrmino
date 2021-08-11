@@ -17,6 +17,6 @@
 - Operator @ [UnderDog-Revolution](https://www.notion.so/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9)
 
 ![Namrmino's github stats]<img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true">
-[![Top Langs]<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook">
 
 Feel free to contact me directly at 📫 njj97@naver.com
