@@ -9,7 +9,6 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/namrmino/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="njj97@naver.com"><img src="https://img.shields.io/badge/njj97@naver.com-9ECB74?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com"/>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/namrmino"/>
 </a>
@@ -24,13 +23,15 @@
 
 <img src="https://img.shields.io/badge/Python-4D9168?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-🔗 [LG Uplus _ NW Big-Data Team Intern (Field Trainee)](http://www.uplus.co.kr/cmg/kore/info/pklu/RetrievePkLuIntroduce.hpi?mid=10349)
+🔗 LG Uplus _ NW Big-Data Team Intern (Field Trainee)
 
-🔗 [AUSG - AWSKRUG University Student Group _ Member](https://ausg.me/)
+🔗 AUSG - AWSKRUG University Student Group _ Member
 
-🔗 [LikeLion Univ. Student _ Manager](https://www.likelion.net/)
+🔗 LikeLion Univ. Student _ Manager
 
-🔗 [UnderDog-Revolution _ Operator](https://www.notion.so/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9)
+🔗 UnderDog-Revolution _ Operator
+
+🔗 Pseudo Lab _ Builder & Member
 
 <br>
 
