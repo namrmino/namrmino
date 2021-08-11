@@ -33,4 +33,5 @@
 
 <br>
 
-Feel free to contact me directly at 📫 njj97@naver.com
+Feel free to contact me directly at <br>
+📫 njj97@naver.com
