@@ -38,7 +38,7 @@
 
 🔗 AUSG(AWS-USG) _ Member
 
-🔗 Like-Lion Univ. Student _ Manager
+🔗 Like-Lion Univ. _ Manager & Member
 
 🔗 Pseudo-Lab _ Builder & Member
 
