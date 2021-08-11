@@ -23,15 +23,15 @@
 
 <img src="https://img.shields.io/badge/Python-4D9168?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-🔗 LG Uplus _ NW Big-Data Team Intern (Field Trainee)
+🔗 LG-Uplus NW Big-Data Team _ Intern(Field Trainee)
 
-🔗 AUSG - AWSKRUG University Student Group _ Member
+🔗 AUSG(AWSKRUG University Student Group) _ Member
 
-🔗 LikeLion Univ. Student _ Manager
+🔗 Like-Lion Univ. Student _ Manager
 
 🔗 UnderDog-Revolution _ Operator
 
-🔗 Pseudo Lab _ Builder & Member
+🔗 Pseudo-Lab _ Builder & Member
 
 <br>
 
