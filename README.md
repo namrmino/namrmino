@@ -15,10 +15,6 @@
 
 </div>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook&theme=prussian">
-<br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true&theme=prussian">
-
 <h3> 💪 Skills & Platforms & Tools </h3>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -67,6 +63,11 @@
 <!-- <code><img height="30" src=""></code>
 <code><img height="30" src=""></code>
 <code><img height="30" src=""></code> -->
+
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook&theme=prussian">
+<br>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true&theme=prussian">
+
 <br>
 
 🔗 LG-Uplus NW Big-Data Team _ Intern(Field Trainee)
