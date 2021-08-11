@@ -19,10 +19,19 @@
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true&theme=prussian">
 
+💪 Techs that I've used at least once
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="30" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src=""></code>
+<code><img height="30" src=""></code>
+<code><img height="30" src=""></code>
+<code><img height="30" src=""></code>
+<code><img height="30" src=""></code>
+<code><img height="30" src=""></code>
 
 
 🔗 LG-Uplus NW Big-Data Team _ Intern(Field Trainee)
