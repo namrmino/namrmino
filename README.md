@@ -65,9 +65,8 @@
 <!-- <code><img height="30" src=""></code>
 <code><img height="30" src=""></code>
 <code><img height="30" src=""></code> -->
-<br>
+
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook&theme=prussian">
-<br>
 
 🔗 LG-Uplus NW Big-Data Team _ Intern(Field Trainee)
 
@@ -78,8 +77,6 @@
 🔗 Pseudo-Lab _ Builder & Member
 
 🔗 UnderDog-Revolution _ Operator
-
-<br>
 
 😎 Feel free to contact me directly at 📫 njj97@naver.com
 
