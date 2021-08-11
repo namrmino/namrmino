@@ -25,16 +25,21 @@
 <br> 
 
 - NW Big-Data Team Intern (Field Trainee)
+
 @ [LG Uplus](http://www.uplus.co.kr/cmg/kore/info/pklu/RetrievePkLuIntroduce.hpi?mid=10349)
 
 - Member
+
 @ [AUSG - AWSKRUG University Student Group](https://ausg.me/)
 
 - A University Student Management Team
+
 @ [LikeLion](https://www.likelion.net/)
 
 - Operator
+
 @ [UnderDog-Revolution](https://www.notion.so/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9)
 
+<br>
 
 Feel free to contact me directly at 📫 njj97@naver.com
