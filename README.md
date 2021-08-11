@@ -9,7 +9,7 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/namrmino/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="njj97@naver.com" target="_blank"><img src="https://img.shields.io/badge/njj97@naver.com-9ECB74?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="njj97@naver.com"><img src="https://img.shields.io/badge/njj97@naver.com-9ECB74?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com"/>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/namrmino"/>
 </a>
