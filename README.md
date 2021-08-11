@@ -4,7 +4,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongjaenam/)](https://www.linkedin.com/in/jeongjaenam/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://namrmino.tistory.com/)](https://namrmino.tistory.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamrmino&count_bg=%23628217&title_bg=%23000000&icon=github.svg&icon_color=FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamrmino&count_bg=%23628217&title_bg=%23000000&icon=github.svg&icon_color=#FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
