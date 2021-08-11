@@ -19,7 +19,7 @@
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true&theme=prussian">
 
-<h2> 💪 Techs that I've used at least once </h2>
+<h3> 💪 Techs that I've used at least once </h3>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -46,4 +46,4 @@
 
 <br>
 
-Feel free to contact me directly at 📫 njj97@naver.com
+😎 Feel free to contact me directly at 📫 njj97@naver.com
