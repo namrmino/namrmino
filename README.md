@@ -15,7 +15,7 @@
 
 </div>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook&theme=prussian">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true&theme=prussian">
 
 <h3> 💪 Skills & Platforms & Tools </h3>
 
@@ -79,7 +79,7 @@
 🔗 UnderDog-Revolution _ Operator
 
 <br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true&theme=prussian">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook&theme=prussian">
 <br>
 
 😎 Feel free to contact me directly at 📫 njj97@naver.com
