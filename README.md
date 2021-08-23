@@ -74,7 +74,5 @@
 
 🔗 Pseudo-Lab _ Builder & Member
 
-🔗 UnderDog-Revolution _ Operator
-
 😎 Feel free to contact me directly at 📫 njj97@naver.com
 
