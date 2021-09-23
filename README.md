@@ -72,8 +72,6 @@
 
 🔗 Pseudo-Lab _ Builder & Member
 
-🔗 Like-Lion Univ. _ Manager & Member
-
 🔗 Fullstack_AI_Lab _ Member
 
 😎 Feel free to contact me directly at 📫 njj97@naver.com
