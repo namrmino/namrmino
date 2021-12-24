@@ -23,11 +23,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="30" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png"></code>
 
-<code><img height="30" src="https://t1.daumcdn.net/cfile/tistory/992095425F570EA536"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoBwo70v-oZ0qGHyoUni1RLYCWg4REUz7znw&usqp=CAU"></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code>
