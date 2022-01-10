@@ -63,6 +63,8 @@
 
 🔗 LG-Uplus NW Big-Data Team _ Intern(Field Trainee)
 
+🔗 KUBIG (Korea Univ. DataScience Society) _ Member
+
 🔗 AUSG (AWS-USG) _ Member
 
 🔗 Pseudo-Lab _ Builder & Member
