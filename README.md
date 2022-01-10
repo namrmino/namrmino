@@ -61,6 +61,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook&theme=prussian">
 
+
 🔗 LG-Uplus NW Big-Data Team _ Intern
 
 🔗 KUBIG (Korea Univ. DataScience Society) _ Member
