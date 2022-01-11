@@ -68,6 +68,8 @@
 
 🔗 KUBIG (Korea Univ. DataScience Society) _ Member
 
+🔗 Like-Lion Univ. _ Manager & Member
+
 🔗 Pseudo-Lab _ Builder & Member
 
 😎 Feel free to contact me directly at 📫 njj97@naver.com
