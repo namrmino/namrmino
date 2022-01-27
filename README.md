@@ -3,7 +3,7 @@
 <div align=right>
     
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeongjaenam/)](https://www.linkedin.com/in/jeongjaenam/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20log-black?style=flat-square&logo=github&link=https://namrmino.tistory.com/)](https://namrmino.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://namrmino.tistory.com/)](https://namrmino.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamrmino&count_bg=%2367945A&title_bg=%23747474&icon=apple.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
