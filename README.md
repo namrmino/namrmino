@@ -17,6 +17,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="30" src="https://www.automateexcel.com/excel/wp-content/uploads/2018/04/icon-shortcuts-sas.png"></code>
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></code>
@@ -29,8 +31,7 @@
 <code><img height="30" src="https://blog.kakaocdn.net/dn/ACGJe/btqEVYwVrEs/2mmcvLXVNLjKelbdqeesJ1/img.png"></code>
 <code><img height="30" src="https://media-exp1.licdn.com/dms/image/C560BAQHNro0_NP_0BQ/company-logo_200_200/0/1519908220874?e=2159024400&v=beta&t=hCOwdwaqh87VUe_9W4lpdG4_qxTjEijC2lJTD3I0wkE"></code> -->
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></code>
