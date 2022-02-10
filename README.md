@@ -31,7 +31,7 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://lh3.googleusercontent.com/proxy/GGEoh-fjRNc_wHX12_PxoE5mGz0FSp5sZuGrI_NCpqQ8Gr214kLNq_FqObzGxpyv9I9LnHYxMO45I1Bci3xVJuE9V9qqWBXP3OH4AgUMFNxyblWsB4P1risZM435W9FQhswOYCjQN032Rl-wQsoGSWEZOuSN-PzLEWOfXBN0KjBM"></code>
+
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></code>
 
