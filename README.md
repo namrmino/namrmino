@@ -27,29 +27,25 @@
 <code><img height="30" src="https://juststickers.in/wp-content/uploads/2014/07/Hadoop.jpg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1200px-Apache_Hive_logo.svg.png"></code>
 <code><img height="30" src="https://blog.kakaocdn.net/dn/ACGJe/btqEVYwVrEs/2mmcvLXVNLjKelbdqeesJ1/img.png"></code>
-<code><img height="30" src="https://media-exp1.licdn.com/dms/image/C560BAQHNro0_NP_0BQ/company-logo_200_200/0/1519908220874?e=2159024400&v=beta&t=hCOwdwaqh87VUe_9W4lpdG4_qxTjEijC2lJTD3I0wkE"></code>
+<code><img height="30" src="https://media-exp1.licdn.com/dms/image/C560BAQHNro0_NP_0BQ/company-logo_200_200/0/1519908220874?e=2159024400&v=beta&t=hCOwdwaqh87VUe_9W4lpdG4_qxTjEijC2lJTD3I0wkE"></code> -->
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://www.attuneww.com/wp-content/uploads/2016/10/d3JS.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<code><img height="30" src="https://avatars.githubusercontent.com/u/22800682?s=280&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<!-- <code><img height="30" src="https://avatars.githubusercontent.com/u/22800682?s=280&v=4"></code>
 <code><img height="30" src="https://ih1.redbubble.net/image.1760620204.7008/st,small,507x507-pad,600x600,f8f8f8.jpg"></code>
 <code><img height="30" src="https://hiseon.me/wp-content/uploads/2019/06/colab-logo.png"></code>
 <code><img height="30" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
-<code><img height="30" src="https://pictureyou-neo.github.io/2020/09/15/vsc-visual-studio-code/vsc_logo.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="30" src="https://pictureyou-neo.github.io/2020/09/15/vsc-visual-studio-code/vsc_logo.png"></code> -->
 <code><img height="30" src="https://lh3.googleusercontent.com/proxy/GGEoh-fjRNc_wHX12_PxoE5mGz0FSp5sZuGrI_NCpqQ8Gr214kLNq_FqObzGxpyv9I9LnHYxMO45I1Bci3xVJuE9V9qqWBXP3OH4AgUMFNxyblWsB4P1risZM435W9FQhswOYCjQN032Rl-wQsoGSWEZOuSN-PzLEWOfXBN0KjBM"></code>
 
 <code><img height="30" src="https://static.techspot.com/images2/downloads/topdownload/2021/03/2021-03-18-ts3_thumbs-e50.png"></code>
 <code><img height="30" src="https://media-exp1.licdn.com/dms/image/C510BAQHv4TuUSVmblQ/company-logo_200_200/0/1573513777801?e=2159024400&v=beta&t=jab4Hx41IV1SHkNOGI5dunpBHr54IfMf8MJ9cEbXh5o"></code>
-<code><img height="30" src=""></code>
+<!-- <code><img height="30" src=""></code>
 <code><img height="30" src=""></code>
 <code><img height="30" src=""></code> -->
 
