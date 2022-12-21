@@ -8,8 +8,8 @@
 
 </div>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true&theme=prussian">
-
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=namrmino&count_private=true&show_icons=true&theme=prussian">
+ -->
 <!-- 
 <h3> 👾 Tech Stack </h3>
 
@@ -51,7 +51,7 @@
 <code><img height="30" src=""></code>
 <code><img height="30" src=""></code> -->
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook&theme=prussian">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrmino&layout=compact&hide=Jupyter%20notebook&theme=prussian"> -->
 
 <!--
 🔗 LG-Uplus NW Big-Data Team _ Intern
